@@ -1,8 +1,9 @@
 # Spatialware
 
-Welcome to the Spatialware Project
+Welcome to my Florida Tech Senior Design Project previously known as "Eyes For the Blind" and finally coined as as "Spatialwear".
 
-https://sites.google.com/my.fit.edu/sdeyes4blind/home
+The following link leads to the Spatialwear project overview and relavant documents
+https://sites.google.com/my.fit.edu/sdeyes4blind/home 
 
 ## Installation
 Use the following documentation provided by Ionic to help setup project
